@@ -5,9 +5,13 @@ this project using xampp 7.1.32 with code igniter
 
 RUN
 1.import database datawitlist from folder to your database
+
 2.Copy folder sk to xampp folder htdocs
+
 3.check localhost/sk 
+
 4.good luck
+
 
 OPTIONAL
 1.twitter_ is folder crawling data from twitter
